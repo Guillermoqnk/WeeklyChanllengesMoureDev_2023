@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reto04", "Reto04\Reto04.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reto14", "Reto14\Reto14.csproj", "{576AB795-B38A-41FC-85D1-41DFD073A3F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto16", "Reto16\Reto16.csproj", "{F0AD8DF9-4AF3-4095-AF11-F8E059BC6C32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reto16", "Reto16\Reto16.csproj", "{F0AD8DF9-4AF3-4095-AF11-F8E059BC6C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto08", "Reto08\Reto08.csproj", "{5DF6702B-2460-402D-93F9-1EE7BC6320A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F0AD8DF9-4AF3-4095-AF11-F8E059BC6C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AD8DF9-4AF3-4095-AF11-F8E059BC6C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AD8DF9-4AF3-4095-AF11-F8E059BC6C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF6702B-2460-402D-93F9-1EE7BC6320A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF6702B-2460-402D-93F9-1EE7BC6320A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF6702B-2460-402D-93F9-1EE7BC6320A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF6702B-2460-402D-93F9-1EE7BC6320A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
