@@ -1,4 +1,4 @@
-﻿/* Statement:
+﻿/*  Statement:
  * 
  * Crea una función que dibuje una escalera según su número de escalones.
  * - Si el número es positivo, será ascendente de izquiera a derecha.

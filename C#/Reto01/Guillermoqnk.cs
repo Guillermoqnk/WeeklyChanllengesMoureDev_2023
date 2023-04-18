@@ -1,4 +1,14 @@
-﻿namespace Reto1;
+﻿/*  Statement:
+ * 
+ * Escribe un programa que reciba un texto y transforme lenguaje natural a
+ * "lenguaje hacker" (conocido realmente como "leet" o "1337"). Este lenguaje
+ *  se caracteriza por sustituir caracteres alfanuméricos.
+ * - Utiliza esta tabla (https://www.gamehouse.com/blog/leet-speak-cheat-sheet/) 
+ *   con el alfabeto y los números en "leet".
+ *   (Usa la primera opción de cada transformación. Por ejemplo "4" para la "a")
+ */
+
+namespace Reto1;
 class Program
 {
     private static Dictionary<char, char> leetLanguage = new Dictionary<char, char>()
